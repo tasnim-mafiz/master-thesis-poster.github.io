@@ -8,13 +8,7 @@ Poster Presentation 2024
 Study Variables
 </h2>
 
-<img
-style="border: 1px solid #ddd;border-radius: 4px;padding: 5px; width:490px;display: block;
-  margin-left: auto;
-  margin-right: auto;"
-  src="./poster-assets/2variables.png"
-/>
-
+![hierarchy](/poster-assets/2variables.png)
 <small style="color:black; text-align:center;display:block">
 Figure 1: Study Variables
 </small>
@@ -92,7 +86,6 @@ Additional Charts
 <small style="color:black; text-align:center;display:block">
 Figure 3: Hierarchical Data Structure
 </small>
-
 
 <strong>2. Province-wise hypertension treatment status</strong>
 
